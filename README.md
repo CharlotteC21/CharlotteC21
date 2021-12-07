@@ -8,6 +8,9 @@
 
 - 📫 Find me on LinkedIn, at: https://www.linkedin.com/in/charlotte-c-/
 
+
+I *happen* to be blind! 🧑‍🦯 🦯
+
 <!---
 CharlotteC21/CharlotteC21 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
