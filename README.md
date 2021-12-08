@@ -9,7 +9,9 @@
 - 📫 Find me on LinkedIn, at: https://www.linkedin.com/in/charlotte-c-/
 
 
-I *happen* to be blind! 🧑‍🦯 🦯
+I *happen* to be legally blind! 🧑‍🦯 🦯
+
+#DisabilityAdvocate
 
 <!---
 CharlotteC21/CharlotteC21 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
