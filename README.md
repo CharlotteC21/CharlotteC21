@@ -32,8 +32,7 @@ I *happen* to be legally blind! 🧑‍🦯 🦯
 <br />
 
 [Python]: https://programming-articles.com/wp-content/uploads/2021/01/python-meme.png
-[vscode]: https://code.visualstudio.com/
-[HTML5]: https://html.com/html5/
+[vscode]: https://i.pinimg.com/originals/eb/f0/a0/ebf0a0c6d10e40caea2b32b2bbc0d93b.jpg
 [SQL]: https://i.pinimg.com/originals/92/da/51/92da51ee076f920d710aa10baabb1bd6.jpg
 [HTML5]: https://californiamemes.com/wp-content/uploads/2019/01/Top-18-learn-to-code-meme-2-1024x656.jpg
 [MongoDB]: https://i.redd.it/ww38zauyvgb51.jpg
