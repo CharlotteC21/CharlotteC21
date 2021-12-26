@@ -30,6 +30,8 @@ I *happen* to be legally blind! 🧑‍🦯 🦯
 <br/>
 <br />
 
+
+
 [Python]: https://programming-articles.com/wp-content/uploads/2021/01/python-meme.png
 [vscode]: https://i.pinimg.com/originals/eb/f0/a0/ebf0a0c6d10e40caea2b32b2bbc0d93b.jpg
 [SQL]: https://i.pinimg.com/originals/92/da/51/92da51ee076f920d710aa10baabb1bd6.jpg
@@ -40,6 +42,11 @@ I *happen* to be legally blind! 🧑‍🦯 🦯
 [MySQL]: https://pics.me.me/y-easier-on-php-mysql-dummies-wittig-wittig-for-29775338.png
 [linkedin]: https://www.linkedin.com/in/charlotte-c-/
 
+
+## 📈 My Github stats!
+
+<img src="https://github-readme-stats.vercel.app/api?username=charlottec21&show_icons=true&theme=gotham" alt="charlottec21" />
+  
 <!---
 CharlotteC21/CharlotteC21 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
