@@ -7,11 +7,9 @@
 - 🤓 I’m currently learning Python, and Data modeling!
 
 
-- 📫 Find me on LinkedIn, at: https://www.linkedin.com/in/charlotte-c-/
-
-
 I *happen* to be legally blind! 🧑‍🦯 🦯
 #DisabilityAdvocate
+<br/>
 
 ## Languages and Tools I love!:
 
