@@ -31,7 +31,6 @@ I *happen* to be legally blind! 🧑‍🦯 🦯 </br>
 <br />
 
 
-
 [Python]: https://programming-articles.com/wp-content/uploads/2021/01/python-meme.png
 [vscode]: https://i.pinimg.com/originals/eb/f0/a0/ebf0a0c6d10e40caea2b32b2bbc0d93b.jpg
 [SQL]: https://i.pinimg.com/originals/92/da/51/92da51ee076f920d710aa10baabb1bd6.jpg
@@ -47,6 +46,11 @@ I *happen* to be legally blind! 🧑‍🦯 🦯 </br>
 
 <img src="https://github-readme-stats.vercel.app/api?username=charlottec21&show_icons=true&theme=gotham" alt="charlottec21" />
   
+<br/>
+
+![](https://komarev.com/ghpvc/?username=charlottec21&style=flat&color=green&label=PROFILE+VIEWS)
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fcharlottec21&count_bg=%2379C83D&title_bg=%23555555&icon=mediafire.svg&icon_color=%23E7E7E7&title=HITS&edge_flat=false)](https://hits.seeyoufarm.com)
+
 <!---
 CharlotteC21/CharlotteC21 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
