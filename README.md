@@ -1,6 +1,6 @@
 # 👋 Hi, I’m Charlotte!
 - 🤔 I’m interested in <b>Deep Machine Learning</b> as it applies to a few issues, such as: 
-  -  💰 Cryptocurrency, NFTs, the metaverse, AR/VR  
+  -  💰 Cryptocurrency, NFTs, and AR/VR  
   -  🎮 Gaming - all. things. gaming.
   -  🪴 Making informed agricultural decisions for climate preservation
   -  🧬 Application to ancestry and genetic modeling
