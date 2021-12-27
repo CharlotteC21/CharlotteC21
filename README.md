@@ -7,7 +7,7 @@
 - 🤓 I’m currently learning Python, and Data modeling!
 
 
-I *happen* to be legally blind! 🧑‍🦯 🦯
+I *happen* to be legally blind! 🧑‍🦯 🦯 </br>
 #DisabilityAdvocate
 <br/>
 
@@ -21,7 +21,7 @@ I *happen* to be legally blind! 🧑‍🦯 🦯
 [<img align="left" alt="MongoDB" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />][MongoDB]
 [<img align="left" alt="Git" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />][Git]
 [<img align="left" alt="GitHub" width="30px" src="https://pngimg.com/uploads/github/github_PNG51.png" />][GitHub]
-[<img align="left" alt="Terminal" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />]
+[<img align="left" alt="Terminal" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 
 
 
@@ -43,7 +43,7 @@ I *happen* to be legally blind! 🧑‍🦯 🦯
 [linkedin]: https://www.linkedin.com/in/charlotte-c-/
 
 
-## 📈 My Github stats!
+## My Github stats!
 
 <img src="https://github-readme-stats.vercel.app/api?username=charlottec21&show_icons=true&theme=gotham" alt="charlottec21" />
   
