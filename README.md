@@ -4,7 +4,7 @@
   -  🎮 Gaming - all. things. gaming.
   -  🪴 Making informed agricultural decisions for climate preservation
   -  🧬 Application to ancestry and genetic modeling
-- 🤓 I’m currently learning Python, and Data modeling!
+- 🤓 I’m currently loving Python, and Data modeling!
 
 
 I *happen* to be legally blind! 🧑‍🦯 🦯 </br>
