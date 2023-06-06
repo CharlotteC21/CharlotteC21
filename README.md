@@ -5,7 +5,7 @@
   -  🎮 Gaming - all. things. gaming.
   -  🪴 Making informed agricultural decisions for climate preservation
   -  🧬 Application to genetic modeling/pharmacogenetics 
-- 🤓 Currently loving Python, and Data modeling *Playing w/ Solidity*
+- 🤓 Currently loving Python, and Data modeling *Playing w/ Solidity* 
 
 ## Languages and Tools I 💚
 
