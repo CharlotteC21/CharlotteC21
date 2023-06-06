@@ -1,15 +1,11 @@
 # 👋 Hi, I’m Charlotte!
-- 🤔 I’m interested in <b>Deep Machine Learning</b> as it applies to a few issues, such as: 
+*Back at it, since it's been a minute*
+- 🤔 Always tinkering in <b>Deep Machine Learning</b> as it applies to a few issues, such as: 
   -  💰 Blockchain, Cryptocurrency, NFTs, and AR/VR  
   -  🎮 Gaming - all. things. gaming.
   -  🪴 Making informed agricultural decisions for climate preservation
-  -  🧬 Application to ancestry and genetic modeling
-- 🤓 I’m currently loving Python, and Data modeling! *Learning Solidity*
-
-
-I *happen* to be legally blind! 🧑‍🦯 🦯 </br>
-#DisabilityAdvocate
-<br/>
+  -  🧬 Application to genetic modeling/pharmacogenetics 
+- 🤓 Currently loving Python, and Data modeling *Playing w/ Solidity*
 
 ## Languages and Tools I 💚
 
