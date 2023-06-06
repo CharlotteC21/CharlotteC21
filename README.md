@@ -7,6 +7,11 @@
   -  🧬 Application to genetic modeling/pharmacogenetics 
 - 🤓 Currently loving Python, and Data modeling *Playing w/ Solidity* 
 
+
+
+# 👾Discord: bluberries#6081
+# 📩 Telegram: blueberries0x
+
 ## Languages and Tools I 💚
 
 [<img align="left" alt="Python" width="30px" src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/267_Python-512.png" />][Python]
