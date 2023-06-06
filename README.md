@@ -7,8 +7,8 @@
   -  🧬 Application to genetic modeling/pharmacogenetics 
 - 🤓 Currently loving Python, and Data modeling *Playing w/ Solidity* 
 
-
-👾Discord: bluberries#6081 <br></br>
+<br></br>
+👾Discord: bluberries#6081 <br>
 📩Telegram: blueberries0x
 
 ## Languages and Tools I 💚
