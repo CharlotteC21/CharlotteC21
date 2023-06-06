@@ -9,8 +9,8 @@
 
 
 
-# 👾Discord: bluberries#6081
-# 📩 Telegram: blueberries0x
+### 👾Discord: bluberries#6081
+### 📩 Telegram: blueberries0x
 
 ## Languages and Tools I 💚
 
