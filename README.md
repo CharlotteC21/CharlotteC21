@@ -1,5 +1,5 @@
 # 👋 Hi, I’m Charlotte!
-*Back at it, since it's been a minute*
+*Back at it, since it's been a minute - Will update soon*
 - 🤔 Always tinkering in <b>Deep Machine Learning</b> as it applies to a few issues, such as: 
   -  💰 Blockchain, Cryptocurrency, NFTs, and AR/VR  
   -  🎮 Gaming - all. things. gaming.
