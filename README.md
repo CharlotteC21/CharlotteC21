@@ -11,6 +11,7 @@
 👾Discord: bluberries#6081 <br>
 📩Telegram: blueberries0x
 
+<br></br>
 ## Languages and Tools I 💚
 
 [<img align="left" alt="Python" width="30px" src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/267_Python-512.png" />][Python]
