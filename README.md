@@ -9,7 +9,7 @@
 
 <br></br>
 👾 Discord: bluberries#6081 <br>
-📩 Telegram: blueberries0x
+📩 Telegram: @Oxblueberries
 
 <br></br>
 ## Languages and Tools I 💚
