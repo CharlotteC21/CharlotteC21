@@ -8,7 +8,7 @@
 - 🤓 Currently loving Python, and Data modeling *Playing w/ Solidity* 
 
 <br></br>
-👾 Discord: bluberries#6081 <br>
+👾 Discord: bluberries <br>
 📩 Telegram: @bloo_berries
 
 <br></br>
