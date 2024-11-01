@@ -1,6 +1,6 @@
-# 👋 Hi, I’m Charlotte!
+# 👋 Hola, I’m Blooberries!
 
-- 🤔 Tinkering in a few issues, like: 
+- 🤔 Tinkering with: 
   -  💰 Blockchain, Cryptocurrency, NFTs, and AR/VR  
   -  🎮 Gaming - all. things. gaming.
   -  🪴 Making informed agricultural decisions for climate preservation
@@ -8,7 +8,6 @@
 - 🤓 Currently loving Python, and Data modeling *Playing w/ Solidity* 
 
 <br></br>
-👾 Discord: bluberries <br>
 📩 Telegram: @bloo_berries
 
 <br></br>
